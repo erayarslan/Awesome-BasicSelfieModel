@@ -9,4 +9,5 @@ BasicSelfieModel Esinlenmeleri
 
 ## Children
   
-  - [JavaScript](https://github.com/erayarslan/BasicSelfieModel) by [@erayarslan](https://github.com/erayarslan)
+  - [JavaScript](https://github.com/erayarslan/BasicSelfieModel-JavaScript) by [@erayarslan](https://github.com/erayarslan)
+  - [Ruby](https://github.com/erayarslan/BasicSelfieModel-Ruby) by [@erayarslan](https://github.com/erayarslan)
