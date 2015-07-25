@@ -18,3 +18,4 @@ BasicSelfieModel Esinlenmeleri
   - [Python](https://github.com/erayarslan/BasicSelfieModel-Python) by [@erayarslan](https://github.com/erayarslan)
   - [C++](https://github.com/co3moz/BasicSelfieModel-cpp) by [@co3moz](https://github.com/co3moz)
   - [Ruby](https://github.com/okanvurdu/BasicSelfieModel-rb) by [@okanvurdu](https://github.com/okanvurdu)
+  - [CoffeeScript](https://github.com/ahmetozantekin/BasicSelfieModel-coffeescript) by [@ahmetozantekin](https://github.com/ahmetozantekin)
