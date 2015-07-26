@@ -20,3 +20,4 @@ BasicSelfieModel Esinlenmeleri
   - [Ruby](https://github.com/okanvurdu/BasicSelfieModel-rb) by [@okanvurdu](https://github.com/okanvurdu)
   - [CoffeeScript](https://github.com/ahmetozantekin/BasicSelfieModel-coffeescript) by [@ahmetozantekin](https://github.com/ahmetozantekin)
   - [TypeScript](https://github.com/co3moz/BasicSelfieModel-Typescript) by [@co3moz](https://github.com/co3moz)
+  - [Go](https://github.com/gokselpirnal/BasicSelfieModel-Go) by (@gokselpirnal)[https://github.com/gokselpirnal]
