@@ -21,3 +21,11 @@ BasicSelfieModel Esinlenmeleri
   - [CoffeeScript](https://github.com/ahmetozantekin/BasicSelfieModel-coffeescript) by [@ahmetozantekin](https://github.com/ahmetozantekin)
   - [TypeScript](https://github.com/co3moz/BasicSelfieModel-Typescript) by [@co3moz](https://github.com/co3moz)
   - [Go](https://github.com/gokselpirnal/BasicSelfieModel-Go) by [@gokselpirnal](https://github.com/gokselpirnal)
+
+## Contributing
+
+1. Fork it!
+2. Create your feature branch: `git checkout -b my-new-feature`
+3. Commit your changes: `git commit -m 'Add some feature'`
+4. Push to the branch: `git push origin my-new-feature`
+5. Submit a pull request :D
