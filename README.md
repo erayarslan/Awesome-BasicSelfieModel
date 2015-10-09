@@ -21,6 +21,7 @@ BasicSelfieModel Esinlenmeleri
   - [CoffeeScript](https://github.com/ahmetozantekin/BasicSelfieModel-coffeescript) by [@ahmetozantekin](https://github.com/ahmetozantekin)
   - [TypeScript](https://github.com/co3moz/BasicSelfieModel-Typescript) by [@co3moz](https://github.com/co3moz)
   - [Go](https://github.com/gokselpirnal/BasicSelfieModel-Go) by [@gokselpirnal](https://github.com/gokselpirnal)
+  - [C++](https://github.com/erayarslan/BasicSelfieModel-Cpp) by [@erayarslan](https://github.com/erayarslan)
 
 ## Contributing
 
